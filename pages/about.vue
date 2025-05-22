@@ -41,7 +41,7 @@ const team = [
 <template>
   <LandingContainer>
     <LandingSectionhead>
-      <template v-slot:title>About</template>
+      <template v-slot:title>A propos</template>
       <template v-slot:desc>We are a small passionate team.</template>
     </LandingSectionhead>
 
